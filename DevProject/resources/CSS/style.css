@@ -1,0 +1,24 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+.banner {
+    background-color: darkseagreen;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+}
+
+#sunandmoon {
+    height: 200px;
+    width: 200px;
+    padding: 20px auto;
+}
+
+#thinky {
+    color: palevioletred;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 700;
+}
